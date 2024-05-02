@@ -1,4 +1,13 @@
 - Credential Dump (✅)
-- Kerberos
+- Kerberoasting
 - Port Forwarding
 - SSL Reverse shell (✅)
+- Check Impersonate
+
+
+# Enumeração
+- Enum Domain Admins
+- Enum Local Admin
+- Enum Domain Shares
+- Enum Domain Computers
+- Password Spray
