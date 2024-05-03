@@ -3,7 +3,7 @@
 - Port Forwarding
 - SSL Reverse shell (✅)
 - Check Impersonate
-- AMSI Bypass - Remove AMSI Reg Key
+- AMSI Bypass - Remove AMSI Reg Key (Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}" -Recurse)
 
 # Enumeração
 - Enum Domain Admins
