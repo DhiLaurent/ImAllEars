@@ -3,7 +3,7 @@
 - Port Forwarding
 - SSL Reverse shell (✅)
 - Check Impersonate
-
+- AMSI Bypass - Remove AMSI Reg Key
 
 # Enumeração
 - Enum Domain Admins
