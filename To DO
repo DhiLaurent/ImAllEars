@@ -11,3 +11,5 @@
 - Enum Domain Shares
 - Enum Domain Computers
 - Password Spray
+- Validar se um usuário é vulnerável a AS-REP
+
